@@ -17,13 +17,13 @@ Dataset
 - Power B– Data modeling, DAX calculations, dashboard creation
 
 Dashboard Features
-1. KPI Cards**
+1. KPI Cards
    - Total Sales
    - Total Orders
    - Return Rate %
    - Average Order Value
    - Countries Sold In
-2. B2B vs B2C Sales Analysis**
+2. B2B vs B2C Sales Analysis
 3. Monthly Sales Trend & MoM Growth
 4. Return Rate by Category
 5. Top 10 Products by Sales
